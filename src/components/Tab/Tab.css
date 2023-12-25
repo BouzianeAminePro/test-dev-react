@@ -1,0 +1,5 @@
+.tab-header-container {
+  display: flex;
+  column-gap: 30px;
+  margin: 20px 0;
+}
